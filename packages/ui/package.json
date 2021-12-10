@@ -1,7 +1,8 @@
 {
   "name": "ui",
   "version": "1.0.0",
-  "main": "./Button.tsx",
-  "types": "./Button.tsx",
+  "main": "./index.ts",
+  "module": "./index.ts",
+  "types": "./index.ts",
   "license": "MIT"
 }
